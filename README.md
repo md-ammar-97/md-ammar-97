@@ -1,13 +1,13 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mohammad%20Ammar&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=40&desc=AI%20Product%20Manager%20%7C%20B2B%20SaaS%20%7C%20Logistics%20AI%20%7C%20RAG%20%7C%20MCP%20%7C%20Voice%20AI&descSize=16&descAlignY=58&descColor=ffffffcc" />
 
-<img align="right" src="https://avatars.githubusercontent.com/u/146890309?v=4" width="130" alt="Mohammad Ammar" />
+<div align="center">
 
 # Hi, I'm Ammar 👋
 
-### AI Product Manager &nbsp;|&nbsp; B2B SaaS &nbsp;|&nbsp; Logistics Tech &nbsp;|&nbsp; RAG &nbsp;|&nbsp; MCP &nbsp;|&nbsp; Voice AI
+<h3>AI Product Manager &nbsp;|&nbsp; B2B SaaS &nbsp;|&nbsp; Logistics Tech &nbsp;|&nbsp; RAG &nbsp;|&nbsp; MCP &nbsp;|&nbsp; Voice AI</h3>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Building+0%E2%86%921+B2B+SaaS+Products;Logistics+AI+%7C+TMS+%7C+Voice+Dispatch;RAG+Pipelines+%7C+MCP+Servers+%7C+Agentic+Workflows;Idea+%E2%86%92+PRD+%E2%86%92+Prototype+%E2%86%92+Ship" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Building+0%E2%86%921+B2B+SaaS+Products;Logistics+AI+%7C+TMS+%7C+Voice+Dispatch;RAG+Pipelines+%7C+MCP+Servers+%7C+Agentic+Workflows;Idea+%E2%86%92+PRD+%E2%86%92+Prototype+%E2%86%92+Ship" alt="Typing SVG" />
+
 </div>
 
 > I build AI-native product workflows — from problem discovery and PRDs to prototypes, GTM, rollout, and client adoption. **$18,500+ MRR · 11 B2B clients · 0→1 end-to-end.**
@@ -27,8 +27,6 @@
 [![Email](https://img.shields.io/badge/Email-mohdammar97@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mohdammar97@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-nextleap.app-7C3AED?style=flat-square&logo=notion&logoColor=white)](https://nextleap.app/portfolio/mohd-ammar)
 [![Calendly](https://img.shields.io/badge/Book%20a%20Call-Calendly-006BFF?style=flat-square&logo=calendly&logoColor=white)](https://calendly.com/md-ammar/15min-coffee-chat-with-ammar)
-
-![Profile Views](https://komarev.com/ghpvc/?username=md-ammar-97&color=2563EB&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -76,7 +74,7 @@
 ## 🏆 Featured Product Work
 
 <details>
-<summary><b>🚚 FreightNXT — AI-enabled TMS Platform</b> &nbsp;&nbsp; <code>4 enterprise clients · $18,500+ MRR · Production</code></summary>
+<summary><b>🚚 FreightNXT — AI-enabled TMS Platform</b> &nbsp;&nbsp; <img src="https://img.shields.io/badge/4%20Enterprise%20Clients-059669?style=flat-square" /> <img src="https://img.shields.io/badge/%2418%2C500%2B%20MRR-D97706?style=flat-square" /> <img src="https://img.shields.io/badge/Production-2563EB?style=flat-square" /></summary>
 <br>
 
 **Problem:** Logistics operators juggling dispatch, load tracking, carrier workflows, settlements, and driver communication across fragmented, manual tools — every step was a bottleneck.
@@ -93,12 +91,12 @@
 
 **Impact:** 4 enterprise clients · ~40% reduction in manual ops effort · $18,500+ initial MRR across both product lines
 
-**Stack:** `Retell AI` `Twilio` `Python` `RAG` `MCP` `FastAPI`
+**Stack:** ![](https://img.shields.io/badge/Retell%20AI-059669?style=flat-square) ![](https://img.shields.io/badge/Twilio-F22F46?style=flat-square) ![](https://img.shields.io/badge/Python-3776AB?style=flat-square) ![](https://img.shields.io/badge/RAG-7C3AED?style=flat-square) ![](https://img.shields.io/badge/MCP-7C3AED?style=flat-square) ![](https://img.shields.io/badge/FastAPI-009688?style=flat-square)
 
 </details>
 
 <details>
-<summary><b>🏗️ AxleOS — Personal AI-first Fleet OS</b> &nbsp;&nbsp; <code>Independent product · Full 0→1 build</code></summary>
+<summary><b>🏗️ AxleOS — Personal AI-first Fleet OS</b> &nbsp;&nbsp; <img src="https://img.shields.io/badge/Independent%20Product-7C3AED?style=flat-square" /> <img src="https://img.shields.io/badge/Full%200%E2%86%921%20Build-2563EB?style=flat-square" /></summary>
 <br>
 
 **Problem:** Building a modern, AI-first TMS from scratch — to deeply understand every layer of the product before designing for clients.
@@ -115,12 +113,12 @@
 
 **Impact:** Deep internalization of TMS product complexity — now informs every discovery conversation and PRD at Axestrack
 
-**Stack:** `TanStack Start v1` `Supabase` `Groq` `React` `TypeScript` `Claude Code`
+**Stack:** ![](https://img.shields.io/badge/TanStack%20Start%20v1-D97706?style=flat-square) ![](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square) ![](https://img.shields.io/badge/Groq-FF6F00?style=flat-square) ![](https://img.shields.io/badge/React-0EA5E9?style=flat-square) ![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square) ![](https://img.shields.io/badge/Claude%20Code-CC785C?style=flat-square)
 
 </details>
 
 <details>
-<summary><b>💊 HealthFundIQ — Global Healthcare RAG ChatBot</b> &nbsp;&nbsp; <code>8 markets · ~34 funds · Daily refresh</code></summary>
+<summary><b>💊 HealthFundIQ — Global Healthcare RAG ChatBot</b> &nbsp;&nbsp; <img src="https://img.shields.io/badge/8%20Markets-059669?style=flat-square" /> <img src="https://img.shields.io/badge/%7E34%20Funds-D97706?style=flat-square" /> <img src="https://img.shields.io/badge/Daily%20Refresh-2563EB?style=flat-square" /></summary>
 <br>
 
 **Problem:** Healthcare fund analysts needed fast, accurate answers from dense fund prospectuses across 8 global markets — manual research was slow, error-prone, and didn't scale.
@@ -135,14 +133,14 @@
 
 **AI layer:** Groq LLM · VectorDB · document ingestion pipeline · retrieval · structured factual response generation
 
-**Stack:** `Python` `TypeScript` `Groq` `Streamlit` `VectorDB`
+**Stack:** ![](https://img.shields.io/badge/Python-3776AB?style=flat-square) ![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square) ![](https://img.shields.io/badge/Groq-FF6F00?style=flat-square) ![](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square) ![](https://img.shields.io/badge/VectorDB-7C3AED?style=flat-square)
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-HealthFundIQ-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/md-ammar-97/HealthFundIQ---RAG-ChatBot)
 
 </details>
 
 <details>
-<summary><b>🔗 wealthsimple-mcp — Portfolio Automation via MCP</b> &nbsp;&nbsp; <code>MCP integration · Agentic workflow</code></summary>
+<summary><b>🔗 wealthsimple-mcp — Portfolio Automation via MCP</b> &nbsp;&nbsp; <img src="https://img.shields.io/badge/MCP%20Integration-7C3AED?style=flat-square" /> <img src="https://img.shields.io/badge/Agentic%20Workflow-2563EB?style=flat-square" /></summary>
 <br>
 
 **Problem:** Manual weekly portfolio reviews meant repeatedly pulling the same data, writing the same summaries, and formatting the same emails — a task that AI should own entirely.
@@ -156,14 +154,14 @@
 
 **AI layer:** MCP server · agentic orchestration · structured document generation
 
-**Stack:** `Python` `MCP`
+**Stack:** ![](https://img.shields.io/badge/Python-3776AB?style=flat-square) ![](https://img.shields.io/badge/MCP-7C3AED?style=flat-square)
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-wealthsimple--mcp-2563EB?style=flat-square&logo=github&logoColor=white)](https://github.com/md-ammar-97/wealthsimple-mcp)
 
 </details>
 
 <details>
-<summary><b>🍽️ DishAI — AI Restaurant Recommendation System</b> &nbsp;&nbsp; <code>FastAPI · Groq · Next.js</code></summary>
+<summary><b>🍽️ DishAI — AI Restaurant Recommendation System</b> &nbsp;&nbsp; <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square" /> <img src="https://img.shields.io/badge/Groq-FF6F00?style=flat-square" /> <img src="https://img.shields.io/badge/Next.js-0EA5E9?style=flat-square" /></summary>
 <br>
 
 **Problem:** Restaurant discovery relies on static star ratings — users lack personalized, context-aware recommendations that understand what they actually want right now.
@@ -178,7 +176,7 @@
 
 **AI layer:** Llama 3.3 70B (Groq) · structured prompt design · FastAPI LLM integration
 
-**Stack:** `Python` `FastAPI` `Groq` `Next.js` `TypeScript`
+**Stack:** ![](https://img.shields.io/badge/Python-3776AB?style=flat-square) ![](https://img.shields.io/badge/FastAPI-009688?style=flat-square) ![](https://img.shields.io/badge/Groq-FF6F00?style=flat-square) ![](https://img.shields.io/badge/Next.js-0EA5E9?style=flat-square) ![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square)
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-DishAI-059669?style=flat-square&logo=github&logoColor=white)](https://github.com/md-ammar-97/DishAI)
 
@@ -189,7 +187,7 @@
 ## 🌱 Earlier Product Work
 
 <details>
-<summary><b>🏠 AmiColo — AI Roommate Matching Platform</b> &nbsp;&nbsp; <code>$250K funding opportunity · 30K+ organic visits</code></summary>
+<summary><b>🏠 AmiColo — AI Roommate Matching Platform</b> &nbsp;&nbsp; <img src="https://img.shields.io/badge/%24250K%20Funding%20Opportunity-D97706?style=flat-square" /> <img src="https://img.shields.io/badge/30K%2B%20Organic%20Visits-059669?style=flat-square" /></summary>
 <br>
 
 Co-founded a roommate-matching platform applying clustering algorithms on social indices via Facebook Graph API.
@@ -198,12 +196,12 @@ Co-founded a roommate-matching platform applying clustering algorithms on social
 - Achieved **30,000+ organic visits** at launch with a low-friction, profile-based matching MVP
 - Applied unsupervised ML (clustering) to improve match quality beyond simple filter-based systems
 
-**Stack:** `Python` `Scikit-learn` `Meta API` `Power BI` `HTML/CSS`
+**Stack:** ![](https://img.shields.io/badge/Python-3776AB?style=flat-square) ![](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square) ![](https://img.shields.io/badge/Meta%20API-0A66C2?style=flat-square) ![](https://img.shields.io/badge/Power%20BI-E8A900?style=flat-square)
 
 </details>
 
 <details>
-<summary><b>🎓 AcademAI + FoodX — Concordia Innovation Lab</b> &nbsp;&nbsp; <code>Canada Top 40 AI Talent 2023 · $14K pilot funding</code></summary>
+<summary><b>🎓 AcademAI + FoodX — Concordia Innovation Lab</b> &nbsp;&nbsp; <img src="https://img.shields.io/badge/Canada%20Top%2040%20AI%20Talent-7C3AED?style=flat-square" /> <img src="https://img.shields.io/badge/%2414K%20Pilot%20Funding-D97706?style=flat-square" /></summary>
 <br>
 
 Built two products at District 3 Innovation Lab, Concordia University:
@@ -216,7 +214,7 @@ Built two products at District 3 Innovation Lab, Concordia University:
 - Secured **$14,000 in pilot funding** and Quebec Innovation Council recognition
 - Reduced food waste by 13% through data-driven redistribution workflows
 
-**Stack:** `Python` `RAG` `OpenAI` `LangChain` `Pinecone` `VectorDB`
+**Stack:** ![](https://img.shields.io/badge/Python-3776AB?style=flat-square) ![](https://img.shields.io/badge/RAG-7C3AED?style=flat-square) ![](https://img.shields.io/badge/OpenAI-10A37F?style=flat-square) ![](https://img.shields.io/badge/LangChain-2563EB?style=flat-square) ![](https://img.shields.io/badge/Pinecone-059669?style=flat-square) ![](https://img.shields.io/badge/VectorDB-7C3AED?style=flat-square)
 
 </details>
 
@@ -240,11 +238,11 @@ My strength is not writing perfect production code from scratch — it is:
 
 **🎯 Product**
 
-`0→1 Development` `PRDs` `Roadmapping` `Backlog Prioritization` `MVP Scoping` `GTM` `A/B Testing` `Agile / Scrum` `CSPO`
+![](https://img.shields.io/badge/0%E2%86%921%20Development-2563EB?style=flat-square) ![](https://img.shields.io/badge/PRDs-2563EB?style=flat-square) ![](https://img.shields.io/badge/Roadmapping-2563EB?style=flat-square) ![](https://img.shields.io/badge/Backlog%20Prioritization-2563EB?style=flat-square) ![](https://img.shields.io/badge/MVP%20Scoping-2563EB?style=flat-square) ![](https://img.shields.io/badge/GTM-2563EB?style=flat-square) ![](https://img.shields.io/badge/A%2FB%20Testing-2563EB?style=flat-square) ![](https://img.shields.io/badge/Agile%20%2F%20Scrum-2563EB?style=flat-square) ![](https://img.shields.io/badge/CSPO-2563EB?style=flat-square)
 
 **🧠 AI & LLM**
 
-`RAG Pipelines` `MCP Servers` `LLM Fine-tuning` `Prompt Engineering` `Agentic Workflows` `Voice AI`
+![](https://img.shields.io/badge/RAG%20Pipelines-7C3AED?style=flat-square) ![](https://img.shields.io/badge/MCP%20Servers-7C3AED?style=flat-square) ![](https://img.shields.io/badge/LLM%20Fine--tuning-7C3AED?style=flat-square) ![](https://img.shields.io/badge/Prompt%20Engineering-7C3AED?style=flat-square) ![](https://img.shields.io/badge/Agentic%20Workflows-7C3AED?style=flat-square) ![](https://img.shields.io/badge/Voice%20AI-7C3AED?style=flat-square)
 
 [![Groq](https://img.shields.io/badge/Groq-FF6F00?style=flat-square)](https://groq.com)
 [![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=flat-square)](https://claude.ai/code)
@@ -258,7 +256,8 @@ My strength is not writing perfect production code from scratch — it is:
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com)
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)](https://tableau.com)
 [![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](https://cloud.google.com/bigquery)
-`Python` `SQL` `Google Stitch` `Product Analytics`
+
+![](https://img.shields.io/badge/Python-3776AB?style=flat-square) ![](https://img.shields.io/badge/SQL-D97706?style=flat-square) ![](https://img.shields.io/badge/Google%20Stitch-D97706?style=flat-square) ![](https://img.shields.io/badge/Product%20Analytics-D97706?style=flat-square)
 
 **⚡ Prototyping & Building**
 
@@ -268,7 +267,7 @@ My strength is not writing perfect production code from scratch — it is:
 
 **🚚 Domains**
 
-`Logistics SaaS` `TMS / Fleet OS` `Fintech` `Operations Automation` `Transportation` `Healthcare Data`
+![](https://img.shields.io/badge/Logistics%20SaaS-E05C6E?style=flat-square) ![](https://img.shields.io/badge/TMS%20%2F%20Fleet%20OS-E05C6E?style=flat-square) ![](https://img.shields.io/badge/Fintech-E05C6E?style=flat-square) ![](https://img.shields.io/badge/Operations%20Automation-E05C6E?style=flat-square) ![](https://img.shields.io/badge/Transportation-E05C6E?style=flat-square) ![](https://img.shields.io/badge/Healthcare%20Data-E05C6E?style=flat-square)
 
 ---
 
